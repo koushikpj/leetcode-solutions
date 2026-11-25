@@ -5,5 +5,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0610-triangle-judgement](https://github.com/koushikpj/leetcode-solutions/tree/master/0610-triangle-judgement) |
+| [1164-product-price-at-a-given-date](https://github.com/koushikpj/leetcode-solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1321-restaurant-growth](https://github.com/koushikpj/leetcode-solutions/tree/master/1321-restaurant-growth) |
 <!---LeetCode Topics End-->
