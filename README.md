@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/koushikpj/leetcode-solutions/tree/master/0177-nth-highest-salary) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/koushikpj/leetcode-solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/koushikpj/leetcode-solutions/tree/master/0610-triangle-judgement) |
 | [1164-product-price-at-a-given-date](https://github.com/koushikpj/leetcode-solutions/tree/master/1164-product-price-at-a-given-date) |
