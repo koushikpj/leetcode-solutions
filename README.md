@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/koushikpj/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/koushikpj/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/koushikpj/leetcode-solutions/tree/master/0704-binary-search) |
 | [3934-smallest-unique-subarray](https://github.com/koushikpj/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/koushikpj/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/koushikpj/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/koushikpj/leetcode-solutions/tree/master/0704-binary-search) |
 | [3934-smallest-unique-subarray](https://github.com/koushikpj/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
@@ -63,5 +65,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/koushikpj/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/koushikpj/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
