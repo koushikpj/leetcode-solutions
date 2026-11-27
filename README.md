@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/koushikpj/leetcode-solutions/tree/master/0704-binary-search) |
 | [3934-smallest-unique-subarray](https://github.com/koushikpj/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/koushikpj/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/koushikpj/leetcode-solutions/tree/master/0704-binary-search) |
 | [3934-smallest-unique-subarray](https://github.com/koushikpj/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Rolling Hash
 |  |
