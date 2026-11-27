@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/koushikpj/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/koushikpj/leetcode-solutions/tree/master/0704-binary-search) |
 | [3934-smallest-unique-subarray](https://github.com/koushikpj/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/koushikpj/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/koushikpj/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/koushikpj/leetcode-solutions/tree/master/0704-binary-search) |
 | [3934-smallest-unique-subarray](https://github.com/koushikpj/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Rolling Hash
@@ -54,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/koushikpj/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/koushikpj/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/koushikpj/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
